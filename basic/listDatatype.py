@@ -1,0 +1,20 @@
+list1=[1,2,3,4,5,6,7,8,9,10]
+print(list1)
+list1=list1 + [11]
+print(list1)
+list1.append(12)
+print(list1)
+num=list1[4]
+print(num)
+print(list1.pop())
+print(list1)
+print(list1[1:7])
+list1.extend([1,2])
+print(list1)
+print(list1.index(10))
+list1.insert(2,222)
+print(list1)
+list1.reverse()
+print(list1)
+list1.sort()
+print(list1)
