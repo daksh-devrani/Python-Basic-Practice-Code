@@ -13,6 +13,8 @@ class WorkingStudent(Student):
         super().__init__(name, school)
         self.salary = salary
 
+
+
         
 daksh=WorkingStudent('daksh','Almamater',19000)
 daksh.marks.append(99)
