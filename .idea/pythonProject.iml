@@ -9,6 +9,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vim" />
       <excludeFolder url="file://$MODULE_DIR$/python" />
       <excludeFolder url="file://$MODULE_DIR$/milestoneproject1/python" />
+      <excludeFolder url="file://$MODULE_DIR$/milestoneProject2/python" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.11" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
